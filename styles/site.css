@@ -1,0 +1,38 @@
+body{
+    background-color: #fffbf7; 
+}
+ 
+.section-container {
+    margin: 32px 10% 50px 0;
+    padding: 17px 20px 15px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+    background-color: #d55f62;
+    color: white;
+    align-self: center;
+    width: 100%;
+} 
+
+.section {
+    text-align: center;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 68px;
+    text-transform: capitalize;
+}
+
+.story-pic {
+    max-width: 600px;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.story-title {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 48px;
+    text-align: center;
+    color: #ea6b6e;
+    text-transform: capitalize;
+    margin-top: 42px;
+}
